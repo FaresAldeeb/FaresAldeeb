@@ -9,6 +9,14 @@
 # 👋 Hi, I'm Fares Aldeeb  
 *AI Student | Future Machine Learning Engineer*
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=OpenAI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-1a1a2e?style=for-the-badge&logo=TensorFlow&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white"/>
+</p>
+
 ---
 
 ## 🧠 About Me
