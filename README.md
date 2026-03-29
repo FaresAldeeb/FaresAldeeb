@@ -77,10 +77,3 @@
 
 ## 🌟 Quote
 > “The best way to learn AI is by building and failing fast.”
-
----
-
-<!--Footer-->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=100&section=footer"/>
-</p>
