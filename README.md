@@ -22,33 +22,29 @@
 
 ## 🧠 About Me
 🎓 Junior AI student at **UPM (University of Prince Mugrin), Madinah**  
-🤖 Passionate about Artificial Intelligence, Machine Learning & Deep Learning  
+🤖 Passionate about Machine Learning & Deep Learning  
 📊 Working with real datasets and improving model performance  
-💻 Focused on Python, data analysis, and neural networks  
+📍 Based in Madinah, Saudi Arabia  
 
 ---
 
-## 🚀 What I'm Doing
-- 🔬 Training Machine Learning & Deep Learning models  
-- 📊 Working on Data Mining projects (Kaggle datasets)  
-- 🧠 Learning Neural Networks, CNNs, and Deep Learning fundamentals  
-- 📈 Improving accuracy and understanding model performance  
+## 📂 Featured Projects
+
+### 🏀 [NBA Player Performance Analysis](https://github.com/FaresAldeeb/NBA-player-performance-analysis)
+📊 Built a full machine learning pipeline using real NBA data, applying regression, clustering, and classification techniques, along with custom efficiency metrics for deeper insights.
+
+---
+
+### 🎯 [Shooting Balls Game](https://github.com/FaresAldeeb/shooting-balls-game)
+🎮 Developed a 2D shooting game using Python and Tkinter, applying HCI principles and physics-based mechanics such as projectile motion and collision detection with real-time interaction.
 
 ---
 
 ## 🛠️ Tech Stack
 - **Languages:** Python  
 - **Libraries:** NumPy, Pandas, Matplotlib  
-- **ML/DL:** Scikit-learn, *(learning PyTorch)*  
+- **ML/DL:** Scikit-learn, PyTorch (learning)  
 - **Other Skills:** Data Cleaning, Data Analysis, Problem Solving  
-
----
-
-## 📂 Projects
-- 🔹 Machine Learning Training Project (GPU-based training)  
-- 🔹 Data Mining Project (Online Retail Dataset)  
-- 🔹 Kaggle Practice Projects  
-- 🔹 Deep Learning Experiments *(coming soon)*  
 
 ---
 
