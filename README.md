@@ -1,11 +1,6 @@
 <!--Banner-->
 ![Banner](./FaresHeader.png)
 
-<!--Profile Image-->
-<div>
-  <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
-
 # 👋 Hi, I'm Fares Aldeeb  
 *AI Student | Machine Learning & Deep Learning Enthusiast*
 
@@ -57,21 +52,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FaresAldeeb&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaresAldeeb&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaresAldeeb&theme=tokyo-night" />
-</p>
-
----
-
 ## 🎯 Current Goals
 - 📌 Master Machine Learning & Deep Learning  
 - 📌 Build real-world AI projects  
@@ -81,8 +61,17 @@
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: faresaldeeb@gmail.com  
-- 💼 LinkedIn: (add later)
+<p align="center">
+  
+<a href="mailto:faresaldeeb@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/faresaldeeb" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" />
+</a>
+
+</p>
 
 ---
 
