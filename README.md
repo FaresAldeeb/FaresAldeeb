@@ -1,5 +1,5 @@
 <!--Banner-->
-![Banner](./FaresHeader.png)
+![Banner](./FaresHeader2.png)
 
 # 👋 Hi, I'm Fares Aldeeb  
 *AI Student | Machine Learning & Deep Learning Enthusiast*
