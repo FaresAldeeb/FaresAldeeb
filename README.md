@@ -40,8 +40,14 @@
 
 ---
 
+### 🗓️ [Event Management System (EMS)](https://github.com/FaresAldeeb/event-management-system)
+💻 Developed a full-stack Java application with role-based access control (Admin, Organizer, Attendee), integrating a MySQL database using JDBC for efficient event management, booking, and approval workflows.  
+🔧 Implemented core features including event creation, booking management, and approval systems.
+
+---
+
 ## 🛠️ Tech Stack
-- **Languages:** Python  
+- **Languages:** Python, Java, SQL  
 - **Libraries:** NumPy, Pandas, Matplotlib  
 - **ML/DL:** Scikit-learn, PyTorch (learning)  
 - **Other Skills:** Data Cleaning, Data Analysis, Problem Solving  
