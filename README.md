@@ -30,6 +30,11 @@
 
 ## 📂 Featured Projects
 
+### 🚯 [Littering Detection using Computer Vision](https://github.com/FaresAldeeb/littering-detection-cv)
+🎥 Built a computer vision system that uses YOLO object detection and temporal logic to detect littering events in videos by tracking people and trash.
+
+---
+
 ### 🏀 [NBA Player Performance Analysis](https://github.com/FaresAldeeb/NBA-player-performance-analysis)
 📊 Built a full machine learning pipeline using real NBA data, applying regression, clustering, and classification techniques, along with custom efficiency metrics for deeper insights.
 
