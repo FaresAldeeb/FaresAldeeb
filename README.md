@@ -53,7 +53,7 @@
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, Java, SQL  
-- **Libraries:** NumPy, Pandas, Matplotlib  
+- **Libraries:** NumPy, Pandas, Matplotlib, OpenCV  
 - **ML/DL:** Scikit-learn, PyTorch (learning)  
 - **Other Skills:** Data Cleaning, Data Analysis, Problem Solving  
 
