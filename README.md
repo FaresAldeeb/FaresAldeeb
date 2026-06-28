@@ -21,7 +21,7 @@
 ---
 
 ## 🧠 About Me
-🎓 Junior AI student at **UPM (University of Prince Mugrin), Madinah**  
+🎓 Senior AI student at **UPM (University of Prince Mugrin), Madinah**  
 🤖 Passionate about Machine Learning & Deep Learning  
 📊 Working with real datasets and improving model performance  
 📍 Based in Madinah, Saudi Arabia  
