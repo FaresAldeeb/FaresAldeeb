@@ -1,86 +1,43 @@
-<!--Banner-->
-![Banner](./FaresHeader2.png)
+<!-- Profile banner -->
+![Fares Aldeeb banner](./FaresHeader2.png)
 
-# 👋 Hi, I'm Fares Aldeeb  
-*AI Student | Machine Learning & Deep Learning Enthusiast*
+# Hi, I'm Fares Aldeeb
 
----
+**Artificial Intelligence student at UPM | Computer Vision, RAG & Machine Learning**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI-0A0A0A?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-</p>
+I build practical AI systems that turn data into useful, explainable outcomes. I recently completed an Artificial Intelligence internship at PalmX, contributing to Daleel, an AI-powered Hajj and Umrah assistant.
 
-<p align="center">
-  🚀 Building AI systems • 📊 Learning from data • 🧠 Exploring neural networks
-</p>
+## Focus
 
----
+- Computer vision: object detection, tracking, and video analytics
+- Machine learning: data preparation, classification, evaluation, and model comparison
+- RAG and bilingual AI knowledge bases: source-backed Arabic-English content for reliable retrieval
 
-## 🧠 About Me
-🎓 Senior AI student at **UPM (University of Prince Mugrin), Madinah**  
-🤖 Passionate about Machine Learning, Deep Learning and Computer Vision 
-📊 Working with real datasets and improving model performance  
-📍 Based in Madinah, Saudi Arabia  
+## Featured Work
 
----
+| Project | Highlights |
+| --- | --- |
+| [Littering Detection System](https://github.com/FaresAldeeb/littering-detection-cv) | Fine-tuned YOLO11m with ByteTrack and temporal rules to flag likely littering events in fixed-camera video; generated annotated video and evidence screenshots; reached **0.86 mAP@50**. |
+| **Daleel - AI-Powered Hajj and Umrah Assistant** *(PalmX, private)* | Completed internship work on a bilingual, source-backed RAG knowledge base; structured 22 Tawaf entries in Arabic and English for reliable retrieval. |
+| [UK Road Collision Severity Prediction](https://github.com/FaresAldeeb/uk-road-collision-severity-prediction) | Built a machine-learning pipeline on 104K+ records; compared several classification models and addressed class imbalance with weighting, sampling, and SMOTE. |
+| [NBA Player Performance Analysis](https://github.com/FaresAldeeb/NBA-player-performance-analysis) | Analysed player data with Python to identify performance trends and create decision-support visualizations. |
 
-## 📂 Featured Projects
+## Technical Skills
 
-### 🚯 [Littering Detection using Computer Vision](https://github.com/FaresAldeeb/littering-detection-cv)
-🎥 Built a computer vision system that uses YOLO object detection and temporal logic to detect littering events in videos by tracking people and trash.
+- **Languages:** Python, Java, SQL
+- **Machine Learning & AI:** scikit-learn, RAG, supervised and unsupervised learning, neural networks
+- **Computer Vision:** YOLO, OpenCV, object detection, multi-object tracking, ByteTrack
+- **Data:** Pandas, NumPy, Matplotlib, data cleaning and visualization
+- **Tools:** Git, GitHub, Jupyter Notebook, Roboflow
 
----
+## Experience
 
-### 🏀 [NBA Player Performance Analysis](https://github.com/FaresAldeeb/NBA-player-performance-analysis)
-📊 Built a full machine learning pipeline using real NBA data, applying regression, clustering, and classification techniques, along with custom efficiency metrics for deeper insights.
+**Artificial Intelligence Intern, PalmX** | Jun 2026 - Aug 2026  
+Contributed to Daleel by preparing RAG-ready bilingual knowledge content, verifying information against official sources, and maintaining project updates with Git and GitHub.
 
----
+## Connect
 
-### 🎯 [Shooting Balls Game](https://github.com/FaresAldeeb/shooting-balls-game)
-🎮 Developed a 2D shooting game using Python and Tkinter, applying HCI principles and physics-based mechanics such as projectile motion and collision detection with real-time interaction.
+- [LinkedIn](https://www.linkedin.com/in/faresaldeeb/)
+- [Email](mailto:faresaldeeb@gmail.com)
 
----
-
-### 🗓️ [Event Management System (EMS)](https://github.com/FaresAldeeb/event-management-system)
-💻 Developed a full-stack Java application with role-based access control (Admin, Organizer, Attendee), integrating a MySQL database using JDBC for efficient event management, booking, and approval workflows.  
-🔧 Implemented core features including event creation, booking management, and approval systems.
-
----
-
-## 🛠️ Tech Stack
-- **Languages:** Python, Java, SQL  
-- **Libraries:** NumPy, Pandas, Matplotlib, OpenCV  
-- **ML/DL:** Scikit-learn, PyTorch (learning)  
-- **Other Skills:** Data Cleaning, Data Analysis, Problem Solving  
-
----
-
-## 🎯 Current Goals
-- 📌 Master Machine Learning & Deep Learning  
-- 📌 Build real-world AI projects  
-- 📌 Work with Neural Networks & Computer Vision  
-- 📌 Get an internship in AI / Data Science  
-
----
-
-## 📫 Connect With Me
-<p align="center">
-  
-<a href="mailto:faresaldeeb@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" />
-</a>
-
-<a href="https://www.linkedin.com/in/faresaldeeb" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" />
-</a>
-
-</p>
-
----
-
-## 🌟 Quote
-> “The best way to learn AI is by building and failing fast.”
+> Building practical AI systems, learning continuously, and improving through real projects.
